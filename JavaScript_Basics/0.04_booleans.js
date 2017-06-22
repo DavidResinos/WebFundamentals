@@ -71,4 +71,4 @@ function PriceCalc(Price, tax){
 	var tax = 0.07;
 	console.log(Price *tax + Price);
 }
-PriceCalc(12,12);
+PriceCalc(12,);
