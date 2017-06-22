@@ -22,6 +22,6 @@ places.sort();
 
 for (var i = 0; i < places.length; i++) {
 	console.log(places[i])
-	
+	`
 }
 
