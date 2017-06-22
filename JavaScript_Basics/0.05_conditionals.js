@@ -2,23 +2,14 @@
 //if & else
 
 
-var age = 21;
+var colts = 3;
+var Patriots = 3;
 
-if (age === 40){
-	console.log("Man, you are so cool!");
-} else if (age > 25){
-	console.log("Cool you can rent a car!")
-} else if (age>= 18) {
-	console.log("Congrats, you can vote.")
+if (colts === 3){
+	console.log("Man They Suck!");
+} else if (colts<Patriots){
+	console.log("Cheaters! Using a deflated ball Again!")
+} else if (Patriots>colts) {
+	console.log("Losers get on our level!")
 }
-var password = "Letmein1231"
-
-if (password === "Letmein1231"){
-	console.log("Welcome User!")
-}else {
-	console.log("Who are You?")
-}
-
-
-
 
